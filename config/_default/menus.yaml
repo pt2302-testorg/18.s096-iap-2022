@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 3edca454-764e-40e4-a81b-0504c739b7f5
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: d37b3aa2-ff0c-4286-b7ce-b7e4f3fbb2ea
+  name: Lecture Notes and Readings
+  pageRef: /pages/lecture-notes-and-readings
+  weight: 20
+- identifier: 0215a2ad-e1ed-486b-9f33-ffbff29820d5
+  name: Problem Sets
+  pageRef: /pages/problem-sets
+  weight: 30

@@ -1,0 +1,52 @@
+{
+  "term": "January IAP",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "4bd885ba-75e1-10e9-f75f-124e2da66800",
+      "e99ce068-4e56-275c-a4a1-4a3e69a4bfd8"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "dd116a84-992f-4384-9deb-8884e2c85b93",
+    "website": "matrix-calculus-for-machine-learning-and-beyond"
+  },
+  "course_title": "Matrix Calculus for Machine Learning and Beyond",
+  "hide_download": false,
+  "course_description": "We all know that calculus courses such as [*18.01 Single Variable Calculus*](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) and [*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) cover univariate and vector calculus, respectively. Modern applications such as machine learning require the next big step, matrix calculus.\n\nThis class covers a coherent approach to matrix calculus showing techniques that allow you to think of a matrix holistically (not just as an array of scalars), compute derivatives of important matrix factorizations, and really understand forward and reverse modes of differentiation. We will discuss adjoint methods, custom Jacobian matrix vector products, and how modern automatic differentiation is more computer science than mathematics in that it is neither symbolic nor based on finite differences.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.S096",
+  "course_image_thumbnail": {
+    "content": "255662c3-d34d-49ed-a668-9408b0a32402",
+    "website": "matrix-calculus-for-machine-learning-and-beyond"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions",
+    "Readings"
+  ],
+  "site_uid": "2318fd9f-1b5c-4a48-8a04-9c56d902a1f8",
+  "site_short_id": "18.s096-iap-2022"
+}
